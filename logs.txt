@@ -1,0 +1,13 @@
+commit 5f6f145ed3e1e6d7f710a2faffad725922da7f5f
+Author: Jose Luis Rivera <jose.luis._25@hotmail.com>
+Date:   Tue Jul 4 11:40:27 2017 -0600
+
+    se agrego bootstrap
+
+
+
+commit b9124103627fd6db46e9516fd0306c8eb327ec83
+Author: Jose Luis Rivera <jose.luis._25@hotmail.com>
+Date:   Tue Jul 4 11:32:40 2017 -0600
+
+    Hola mundo
